@@ -62,3 +62,4 @@
 
 [Aggregate / summarize multiple variables per group (i.e. sum, mean, etc)](http://stackoverflow.com/questions/9723208/aggregate-summarize-multiple-variables-per-group-i-e-sum-mean-etc)
 
+[Error in if/while/... "missing value when TRUE/FALSE needed"](http://stackoverflow.com/q/7355187/4137985)
